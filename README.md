@@ -5,9 +5,10 @@ This repo collects the writeups that I've participated, sorted by latest update
 ## Problem Design
 
 [COMPASS CTF 2022/rev](./Problem_Design/rev/)
-[Proceeding/urllib](./Problem_Design/urllib/)
 
-## CTF
+[UNUSED/urllib](./Problem_Design/urllib/)
+
+## Contest
 
 ### Categories
 
@@ -19,6 +20,8 @@ Single problem, fetched from random contests, used for practice.
 + [Web](./Categories/Web)
 
 ### 2024
+
+[LIT CTF 2024](./LIT_CTF_2024) High School CTF, but only focus on the crypto part.
 
 [waniCTF 2024](./waniCTF_2024) Japanese CTF, interesting.
 
